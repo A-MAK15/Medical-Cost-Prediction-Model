@@ -1,5 +1,5 @@
-## Medical Cost Prediction Model
-This repository consists of a medical prediction cost model of an individual based on 
+# Medical Cost Prediction Model
+This project consists of a medical prediction cost model of an individual based on 
 certain demographics that are taken into consideration. These demographics constitute 
 of age, sex, BMI, children, smoker status, and region. The main goal of this model is to provide 
 insights of the relationships between these demographics and how they were scaled to 
